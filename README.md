@@ -64,10 +64,10 @@ Fully automated and secured Terraform infra pipeline
 
 ## CICD Infra setup
 1) ###### GitHub setup
-    Fork GitHub Repository by using the existing repo "jenkins-terraform-infra-repo" (https://github.com/devopsmike-01/jenkins-terraform-infra-repo.git)     
+    Fork GitHub Repository by using the existing repo "Terraform-Jenkins-Repo" (https://github.com/KevweGlobal/Terraform-Jenkins-Repo.git)     
     - Go to GitHub (github.com)
     - Login to your GitHub Account
-    - Fork repository "jenkins-terraform-infra-repo" (https://github.com/devopsmike-01/jenkins-terraform-infra-repo.git) & name it "wandaprep-tf-infra-repo.git"
+    - Fork repository "Terraform-Jenkins-Repo" (https://github.com/KevweGlobal/Terraform-Jenkins-Repo.git) & name it "wandaprep-tf-infra-repo"
     - Clone your newly created repo to your local
 
 2) ###### Jenkins
