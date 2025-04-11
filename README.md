@@ -60,7 +60,7 @@ To know more how to use Jenkinsfile, use this documentation on Jenkinsfile. http
 
 Fully automated and secured Terraform infra pipeline
 
-![Jenkins Infra Setup](jenkins-learning.drawio.png)
+![Screenshot 2025-04-11 at 01 38 03](https://github.com/user-attachments/assets/7e4bf54e-0f67-40c1-88e8-e55e26462b7c)
 
 ## CICD Infra setup
 1) ###### GitHub setup
